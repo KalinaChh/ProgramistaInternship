@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Kalina\Store\Store\bin\Debug\netcoreapp3.0\Store.exe
+C:\Users\user\Desktop\Kalina\Store\Store\bin\Debug\netcoreapp3.0\Store.deps.json
+C:\Users\user\Desktop\Kalina\Store\Store\bin\Debug\netcoreapp3.0\Store.runtimeconfig.json
+C:\Users\user\Desktop\Kalina\Store\Store\bin\Debug\netcoreapp3.0\Store.runtimeconfig.dev.json
+C:\Users\user\Desktop\Kalina\Store\Store\bin\Debug\netcoreapp3.0\Store.dll
+C:\Users\user\Desktop\Kalina\Store\Store\bin\Debug\netcoreapp3.0\Store.pdb
+C:\Users\user\Desktop\Kalina\Store\Store\obj\Debug\netcoreapp3.0\Store.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Kalina\Store\Store\obj\Debug\netcoreapp3.0\Store.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Kalina\Store\Store\obj\Debug\netcoreapp3.0\Store.AssemblyInfo.cs
+C:\Users\user\Desktop\Kalina\Store\Store\obj\Debug\netcoreapp3.0\Store.dll
+C:\Users\user\Desktop\Kalina\Store\Store\obj\Debug\netcoreapp3.0\Store.pdb
